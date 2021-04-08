@@ -17,7 +17,7 @@ public class GitTeste01 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Olá, Mundo!");
-        System.out.println("Ok");
+        System.out.println("Ok teste 02");
     }
     
 }
